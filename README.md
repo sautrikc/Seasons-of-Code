@@ -17,7 +17,7 @@ Next, I implemented the paper using Tensorflow.keras. I read about the different
 I tried to tweak the model and improve on the performance. For this I tried increasing the number of epochs, changing the filter sizes, adding number of layers, changing the dropout rate and using classic CNN architectures like LeNet-5 and AlexNet (modified it to suit this applications) in order to predict the stock market fluctuations. The CNN model can also be improved using Hyperas.
 
 ## Week 10
-The model was automated using Flask and tested on new market data in NIFTY50. For running the model, download app.py, templates and mymodel.h5 from https://drive.google.com/file/d/1Geb878SrcgZ4tYICqFVP22DuGOyK-jvA/view and saved in a directory. Next, run the python application and go to http://127.0.0.1:5000 where you will be asked to upload the file. Upload Processed_NSE (from the data folder) as an example to check the future fluctuation.
+The model was automated using Flask and tested on new market data in NIFTY50. For running the model, download app.py, templates and mymodel.h5 from https://drive.google.com/file/d/1Geb878SrcgZ4tYICqFVP22DuGOyK-jvA/view and save in a directory. Next, run the python application and go to http://127.0.0.1:5000 where you will be asked to upload the file. Upload Processed_NSE (from the data folder) as an example to check the future fluctuation.
 
 ## Instructions for running code
 All code can be run on Jupyter Notebooks or Google Colab. The app.py file needs to be run on VS code with anaconda environment.
