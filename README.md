@@ -14,6 +14,34 @@ I read about the paper on CNNpred: CNN-based stock market prediction using a div
 Next, I implemented the paper using Tensorflow.keras. I read about the different types of feature engineering and tried implementing a few. Some relevant feature engineering in the case of financial markets would be Moving Average, Relative Change of Volume etc.
 
 ## Week 8 and 9
-I tried to tweak the model and improve on the performance. For this I tried increasing the number of epochs, changing the filter sizes, adding number of layers, changing the dropout rate and using classic CNN architectures like LeNet-5 and AlexNet (modified it to suit this applications) in order to predict the stock market fluctuations.
+I tried to tweak the model and improve on the performance. For this I tried increasing the number of epochs, changing the filter sizes, adding number of layers, changing the dropout rate and using classic CNN architectures like LeNet-5 and AlexNet (modified it to suit this applications) in order to predict the stock market fluctuations. The CNN model can also be improved using Hyperas.
 
-In the future, the entire process can be automated. The CNN model can also be improved using Hyperas.
+## Week 10
+The model was automated using Flask and tested on new market data in NIFTY50. For running the model, download app.py, templates and mymodel.h5 from https://drive.google.com/file/d/1Geb878SrcgZ4tYICqFVP22DuGOyK-jvA/view and saved in a directory. Next, run the python application and go to http://127.0.0.1:5000 where you will be asked to upload the file. Upload Processed_NSE (from the data folder) as an example to check the future fluctuation.
+
+## Instructions for running code
+All code can be run on Jupyter Notebooks or Google Colab. The app.py file needs to be run on VS code with anaconda environment.
+
+## Description of files
+
+Week 1-3 code: https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_1_3_Checkpoint_1.ipynb
+Week 5 Mini Project: https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_5_3D_CNN_for_CT_scans.ipynb
+Week 6 (Summary of research paper) : https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%206_Paper%20Summary.docx
+Week 7 (code): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_7_Implementation_of_the_paper.ipynb
+Week 7 (summary): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%207_Summary.docx
+Week 8 (code): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_8_Tweaking_the_model.ipynb
+Week 8 (summary): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%208_Summary.docx
+Week 9 (code): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_9_Implementing_LeNet_5.ipynb || https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_9_Implementing_AlexNet.ipynb
+Week 9 (summary): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%209_Summary.docx
+Week 10 (code):  https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_10_Incorporating_additional_markets_.ipynb 
+Week 10 (summary): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%2010_Summary.docx
+
+Flask application file links:
+Python code: https://github.com/sautrikc/Seasons-of-Code/blob/main/app.py
+HTML folder: https://github.com/sautrikc/Seasons-of-Code/tree/main/templates
+Data: https://github.com/sautrikc/Seasons-of-Code/tree/main/Data
+Model: https://drive.google.com/file/d/1Geb878SrcgZ4tYICqFVP22DuGOyK-jvA/view?usp=sharing
+
+Final PPT: https://github.com/sautrikc/Seasons-of-Code/blob/main/Final_PPT.pptx
+Video Demonstration: https://github.com/sautrikc/Seasons-of-Code/blob/main/Project_Video.mp4
+Research Paper: https://github.com/sautrikc/Seasons-of-Code/blob/main/CNNpred_CNN%20Based%20Stock%20Market%20Prediction.pdf
