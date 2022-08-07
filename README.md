@@ -44,5 +44,5 @@ Model: https://drive.google.com/file/d/1Geb878SrcgZ4tYICqFVP22DuGOyK-jvA/view?us
 
 Final PPT: https://github.com/sautrikc/Seasons-of-Code/blob/main/Final_PPT.pptx <br />
 Video Demonstration: https://github.com/sautrikc/Seasons-of-Code/blob/main/Project_Video.mp4 <br />
-Research Paper: https://github.com/sautrikc/Seasons-of-Code/blob/main/CNNpred_CNN%20Based%20Stock%20Market%20Prediction.pdf
+Research Paper: https://github.com/sautrikc/Seasons-of-Code/blob/main/CNNpred_CNN%20Based%20Stock%20Market%20Prediction.pdf <br />
 Final Documentation: https://github.com/sautrikc/Seasons-of-Code/blob/main/Sautrik%20Chaudhuri_CNN_SMP_Final%20Doc.docx
