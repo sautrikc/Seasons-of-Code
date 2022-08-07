@@ -24,7 +24,7 @@ All code can be run on Jupyter Notebooks or Google Colab. The app.py file needs 
 
 ## Description of files
 
-Week 1-3 code: https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_1_3_Checkpoint_1.ipynb \n
+Week 1-3 code: https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_1_3_Checkpoint_1.ipynb <br />
 Week 5 Mini Project: https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_5_3D_CNN_for_CT_scans.ipynb
 Week 6 (Summary of research paper) : https://github.com/sautrikc/Seasons-of-Code/blob/main/Week%206_Paper%20Summary.docx
 Week 7 (code): https://github.com/sautrikc/Seasons-of-Code/blob/main/Week_7_Implementation_of_the_paper.ipynb
